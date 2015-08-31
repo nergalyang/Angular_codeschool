@@ -1,0 +1,25 @@
+#displayed {
+    display: block;
+    height: 400px;
+    margin-left: auto;
+    margin-right: auto 
+}
+ body {
+ 	background: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwdPFKjw3ToeApzFTrU1Q65pqdzUuCPakPaECZKMRKKpOwKZqQOw);
+ 	background-repeat: repeat;
+}
+ .ng-invalid.ng-dirty{
+  border-color:red;
+}
+.ng-valid.ng-dirty{
+  border-color:green;
+}
+#abc {
+	color:red;
+}
+.center {
+    margin: auto;
+    width: 60%;
+    border:3px solid #8AC007;
+    padding: 10px;
+}
